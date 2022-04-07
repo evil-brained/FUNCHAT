@@ -1,2 +1,2 @@
 <h1>FUNchat</h1>
-online coding platform
+online chatting platform(front end)
